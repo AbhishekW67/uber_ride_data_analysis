@@ -60,13 +60,10 @@ The dataset includes:
 
 **Screenshot:**
 
-```md
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c11a5a11-f1aa-4871-925b-e276ffaab0fb" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-06 213057" src="https://github.com/user-attachments/assets/e8d704e3-445b-476a-b7ff-1435e2004751" />
 
 
-```
 
----
 
 ### 2️⃣ Revenue Analysis Page
 
@@ -78,10 +75,8 @@ The dataset includes:
 
 **Screenshot:**
 
-```md
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aad2759-3de3-4f1c-b603-889013acad00" />
 
-```
 
 ---
 
@@ -94,12 +89,12 @@ The dataset includes:
 
 **Screenshot:**
 
-```md
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f07b5571-841a-440e-9a99-68a95043821f" />
 
-```
 
----
+
+
 
 ### 4️⃣ Cancellation Analysis Page
 
@@ -111,12 +106,12 @@ The dataset includes:
 
 **Screenshot:**
 
-```md
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02a2dec7-cf17-4c7d-ad9e-fdf67e35091e" />
 
-```
 
----
+
+
 
 ### 5️⃣ Ratings Analysis Page
 
@@ -128,12 +123,12 @@ The dataset includes:
 
 **Screenshot:**
 
-```md
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9992c9cb-fa10-4d1c-9811-14fb197cc3f3" />
 
-```
 
----
+
+
 
 ## 💡 Key Insights
 
@@ -142,7 +137,7 @@ The dataset includes:
 * Customer ratings are slightly higher than driver ratings
 * UPI and digital payments are widely used
 
----
+
 
 
 ---
