@@ -75,7 +75,7 @@ The dataset includes:
 
 **Screenshot:**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aad2759-3de3-4f1c-b603-889013acad00" />
+<img width="1331" height="763" alt="image" src="https://github.com/user-attachments/assets/e4971323-c370-48ca-8582-ac4297eb45d7" />
 
 
 ---
@@ -90,7 +90,8 @@ The dataset includes:
 **Screenshot:**
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f07b5571-841a-440e-9a99-68a95043821f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00bea781-f193-4e37-8d0b-5caebe2baae0" />
+
 
 
 
@@ -107,7 +108,8 @@ The dataset includes:
 **Screenshot:**
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02a2dec7-cf17-4c7d-ad9e-fdf67e35091e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/892f0a39-4fc9-4a03-93c6-62ad6fbb05d2" />
+
 
 
 
@@ -124,7 +126,7 @@ The dataset includes:
 **Screenshot:**
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9992c9cb-fa10-4d1c-9811-14fb197cc3f3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11f9e074-e8f7-49bb-bcbf-e96c3a10d427" />
 
 
 
@@ -136,6 +138,9 @@ The dataset includes:
 * Cancellation rate (~25%) indicates operational inefficiencies
 * Customer ratings are slightly higher than driver ratings
 * UPI and digital payments are widely used
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be2f9a1-1328-4fa4-90bc-6bf5cba58157" />
 
 
 
